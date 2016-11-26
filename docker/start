@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker run -d personal:resume bash -c "while [ true ]; do sleep 3600; done"
