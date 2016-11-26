@@ -5,6 +5,11 @@ RUN apt-get update; apt-get upgrade -y
 ENV TERM=xterm-256color
 RUN apt-get install -y git make pandoc context
 
+# Add Samba so that we can see the files that we created
+RUN apt-get install -y samba
+
+COPY boot /root/boot
+RUN chmod 770 /root/boot
 WORKDIR /root
 
 # Grab the repo so we can make a resume
