@@ -41,9 +41,9 @@ Work Experience
 Designed and implemented an extension for T-Mobile's QuikView application on a tablet computer (iPad and Android). QuikView is an internal program used by T-Mobile staff to resolve customer account issues and sell new cell phone service and handsets. For this particular application, portions of the QuikView program were rewritten to support tablet computers for use in the T-Mobile stores so that agents are no longer chained to a desktop computer to help customers on the sales floor.
 Led two different initiatives to improve the <http://www.t-mobile.com> web site. In the first, I designed, built, and deployed a new system for code management and deployment to improve code quality, streamline development tasks, and save limited development resources. In the second, I co-designed a complete replacement for key portions of the site to convert it from .Net to Adobe CQ5. I also managed a team of developers and an external vendor to build and deploy the new code base. Both efforts required coordination with many teams inside our organization including testing, operations, and our business.
 
---- --- ---
-    ***
---- --- ---
+----- ----- -----
+      * * *
+----- ----- -----
 
 **Principal Software Design Engineer**: Cloud Directory / Windows Live ID, [Microsoft Corporation](http://www.microsoft.com), Redmond, WA. (March 2009 - August 2011)  
 **_Technology_**: C#, ASP.Net/MVC, C++, HTML5/CSS3, Javascript/AJAX, ATL, SOAP, WCF (limited), JSON.
@@ -55,9 +55,9 @@ The Windows Live ID system is used by hundreds of millions of Internet users to 
 
 Also on the Windows Live ID system, I worked with another engineer to demonstrate how the main Windows Live ID login page could be converted from a POST request handler to an AJAX request to eliminate one of several redundant login paths. This work has led to the design of a system that allows browser clients to make smart decisions about where to route login requests. By making smarter choices, client login performance is improved significantly by servicing login requests geographically closer to the client (reduced latency). Routing to backup servers happens at the client when the primary servers are down, thereby improving service availability.
 
---- --- ---
-    ***
---- --- ---
+----- ----- -----
+      * * *
+----- ----- -----
 
 **Principal Software Design Engineer / Lead SDE**: Windows Live Platform Incubation / Windows Live ID, [Microsoft Corporation](http://www.microsoft.com), Redmond, WA. (November 2007 - March 2009)  
 **_Technology_**: C#, ASP.Net/MVC, C++, SQL Server, HTML/CSS, Javascript, Trident, smart card, Silverlight (limited).
@@ -68,9 +68,9 @@ The purpose of the Windows Live Platform Incubation team is to demonstrate the v
 
 StartKey is a project designed to improve Windows Live ID security through the use of smart card technology and two-factor authentication. Delivered updates to the Windows Live ID service that allows hundreds of millions of users to upload their digital certificate to Windows Live and log in using their associated smart card. My role was to build a prototype with a small team of developers, and once we had a proof of concept ready then incorporate this work into the Live ID service.
 
---- --- ---
-    ***
---- --- ---
+----- ----- -----
+      * * *
+----- ----- -----
 
 **Principal Software Architect / Principal Program Manager**: Display Advertising Platform, [Microsoft Corporation](http://www.microsoft.com), Redmond, WA. (June 2006 - October 2007)  
 **_Technology_**: C#, C++, SQL Server, HTML/CSS.
@@ -81,63 +81,63 @@ In my second role, I performed confirmatory technical due diligence on major acq
 
 In my third and final role, I evaluated patent pre-disclosures related to new advertising concepts. I made my recommendation of both the business value and novelty of each idea, and negotiated as necessary to push through the best ideas on a limited patent budget.
 
---- --- ---
-    ***
---- --- ---
+----- ----- -----
+      * * *
+----- ----- -----
 
 **Software Developer**: Centelex Corporation, Kent, WA. (June 2003 - December 2015)  
 **_Technology_**: PHP, MySQL, Apache, Bash, HTML/CSS, Javascript/AJAX, JSON, XML.
 
 With my business partner, we provide contract programming services in both ASP.Net/Windows and PHP/Linux. I also co-created the TimeSolver staff scheduling service used by businesses throughout the US to automatically schedule their employees to work shifts based on work requirements and employee availability. My contributions included the core design and programming of the web site UI (traditional and AJAX), authentication methods, billing and payment systems, database design, and data replication. See <http://www.timesolver.com>.
 
---- --- ---
-    ***
---- --- ---
+----- ----- -----
+      * * *
+----- ----- -----
 
 **Visiting Instructor**: [Seattle Pacific University](http://www.spu.edu), Seattle, WA. (September 2002 - June 2003)  
 **_Technology_**: C++, C#, ASP.Net.
 
 I filled a vacant teaching position on a temporary, one year appointment. I instructed students in the following topics: CSC1230 - Problem Solving and Programming, CSC2430 - Data Structures I, and CSC4800 - Advanced Topics in Computing. The CSC4800 course introduced students to web programming using Microsoft ASP.NET and the .NET Framework. I was active in the search for a PhD candidate to permanently fill my position.
 
---- --- ---
-    ***
---- --- ---
+----- ----- -----
+      * * *
+----- ----- -----
 
 **Development Manager**: MSN Shopping, [Microsoft Corporation](http://www.microsoft.com), Redmond, WA. (April 2000 - August 2002)  
 **_Technology_**: C#, VB, ASP.Net, SQL Server, HTML/CSS, Javascript, NT services.
 
 My role as development manager was to lead the technology effort on the eShop platform. I evaluated proposals for new features and provided rough cost estimates. I guided the scheduling of new work, and ensured that the tasks undertaken by my team were sufficient for the time allocated. I evaluated new technology for inclusion into our platform, and approved key architectural decisions for the platform. I worked with all the members of my team to improve their professional skills, as well as their understanding of the needs of our business so that they could make the appropriate technology trade-offs. I also worked with other teams both inside and outside of my group to communicate our needs and understand theirs. I contributed code to the platform, built tools to aid in the overall development process, and both triaged and fixed bugs.
 
---- --- ---
-    ***
---- --- ---
+----- ----- -----
+      * * *
+----- ----- -----
 
 **Lead Software Design Engineer**: [Auto PC](http://www.microsoft.com/presspass/features/1998/12-4autopc.mspx), Microsoft Corporation, Redmond, WA. (April 1999 - March 2000)  
 **_Technology_**: C++, devices.
 
 As a lead software developer for the Auto PC team, I led the effort to bring wireless technologies to our platform. I designed and developed a technology for coordinating data and voice connections on a single device such as a cell phone. I also led the development of our POP3 based email solution.
 
---- --- ---
-    ***
---- --- ---
+----- ----- -----
+      * * *
+----- ----- -----
 
 **Lead Software Design Engineer**: Internet Bill Delivery and Payment Team (Transpoint), Microsoft Corporation, Redmond, WA.  (October 1996 - April 1999)  
 **_Technology_**: C++, SQL Server, ODBC, HTML/CSS, NT services, event logging, perfmon.
 
 I designed and developed software for presenting and paying bills over the Internet.  I led the development of the core technology for our service center where all of the billing and payment information was stored.  I wrote our database connector (wrapping ODBC) and many of our middle tier objects using C++.  I also developed our security object and used it to develop a standardized framework for our web client.  I led the development of our ASP-based web client until it could be handed off for cleanup and branding.  I built much of our common library code, including code-authoring tools for event logging and perfmon counters.  I also developed a technology for caching COM automation objects called from within an ASP page.  I designed and developed the core database structures in SQL Server.  In addition to my duties as a lead, I also worked with Program Management and Test to manage the schedule for the entire service center.  I served as a member of our triage team to ship the final product and as a member of our launch team that was chartered with deploying our service.
 
---- --- ---
-    ***
---- --- ---
+----- ----- -----
+      * * *
+----- ----- -----
 
 **Software Design Engineer**: Commerce Server Group, Microsoft Corporation, Redmond, WA.  (June 1995 - October 1996)  
 **_Technology_**: C++, SQL Server, ODBC, DCOM, named pipes, HTML/CSS
 
 I designed and developed retail shopping software that allows customers to place retail hard-good orders via the Internet.  Using an ISAPI DLL, NT services, and named pipes, I created an infrastructure using VC++ for retrieving data that was posted to a specific URL, passed it to a service that processed the data (using some components which came when we acquired [eShop](http://commerce.msn.com)), and returned a newly generated HTML page back to the browser.  I also designed and developed retail shopping server components that used MSN mail as a transport.  These components connected directly to the MSN mail servers, retrieved mail messages that contained order information, and processed the content.  They logged the order request in a SQL Server database and created new messages that were sent to the appropriate merchant with their specific order information.
 
---- --- ---
-    ***
---- --- ---
+----- ----- -----
+      * * *
+----- ----- -----
 
 **Independent Software Consultant**: Kent WA (January 1995 - June 1995)  
 **Computer Systems Manager**: [Charlie's Produce](http://www.charliesproduce.com), Seattle, WA.  (November 1993 - January 1995)  
