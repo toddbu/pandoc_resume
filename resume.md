@@ -1,100 +1,90 @@
-Johnny Coder
-============
+Todd Buiten
+===========
 
-----
-
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
+-------------------     ----------------------------
+23909 152nd Ave SE                   todd@buiten.com
+Kent, WA  98042                         206.459.6213
+-------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+Bachelor of Science degree with a major in Computer Science. **Calvin College**, Grand Rapids, MI. May 1987.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
+Technology
 ----------
 
-**Your Most Recent Work Experience:**
+**Cross-Platform**: C, C++, Javascript/AJAX/JSON, SOAP, Web Services, HTML/HTML5/CSS/CSS3, Multi-threaded apps/thread synchronization, Sencha Touch
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+**Windows**: NT/XP/Win7/CE, C#, VB, ASP, ASP.Net/MVC, .Net Framework, IIS, ISAPI, Microsoft SQL Server, ODBC, COM/DCOM, ATL, XML DOM, named pipes, wininet, NT services, event logging, perfmon, Trident, and smart card.
 
-* First item
+**Linux**: RedHat/Ubuntu, Apache, PHP, MySQL, Bash
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Patent
+------
 
-**That Other Job You Had**
+I have co-authored and been awarded six patents by the US Patent and Trade Office:
 
-Also with a short description.
+[5,126,945](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=5,126,945.PN.&OS=PN/5,126,945&RS=PN/5,126,945) - Nonferrous extrusion process control system  
+[6,304,857](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6,304,857.PN.&OS=PN/6,304,857&RS=PN/6,304,857) - Distributed electronic billing system with gateway interfacing biller and service center  
+[8,001,002](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8,001,002.PN.&OS=PN/8,001,002&RS=PN/8,001,002) - Interactively presenting advertising content offline  
+[8,156,418](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8,156,418.PN.&OS=PN/8,156,418&RS=PN/8,156,418) - Image acquisition from dynamic content for delivery to network-enabled static display devices  
+[9,071,651](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9,071,651.PN.&OS=PN/9,071,651&RS=PN/9,071,651) - Dynamic content delivery to network-enabled static display device  
+[9,112,702](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9,071,651.PN.&OS=PN/9,071,651&RS=PN/9,071,651) - Alternate authentication
 
-Technical Experience
---------------------
+Work Experience
+---------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Architect Contractor:** CIBER, Inc (August 2011 – Present)  
+**_Technology_**: HTML5/CSS3, Javascript/AJAX, JSON, Sencha Touch, Adobe CQ5
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Designed and implemented an extension for T-Mobile's QuikView application on a tablet computer (iPad and Android). QuikView is an internal program used by T- Mobile staff to resolve customer account issues and sell new cell phone service and handsets. For this particular application, portions of the QuikView program were rewritten to support tablet computers for use in the T-Mobile stores so that agents are no longer chained to a desktop computer to help customers on the sales floor.
+Led two different initiatives to improve the <http://www.t-mobile.com> web site. In the first, I designed, built, and deployed a new system for code management and deployment to improve code quality, streamline development tasks, and save limited development resources. In the second, I co-designed a complete replacement for key portions of the site to convert it from .Net to Adobe CQ5. I also managed a team of developers and an external vendor to build and deploy the new code base. Both efforts required coordination with many teams inside our organization including testing, operations, and our business.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+**Principal Software Design Engineer**: Cloud Directory / Windows Live ID, [Microsoft Corporation](http://www.microsoft.com), Redmond, WA. (March 2009 – August 2011)  
+**_Technology_**: C#, ASP.Net/MVC, C++, HTML5/CSS3, Javascript/AJAX, ATL, SOAP, WCF (limited), JSON.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Windows 8 is Microsoft's competitive answer to the iPad and Android tablet systems. As part of the Windows 8 development team, I designed and implemented key components of the contacts application. Built in HTML5 and Javascript, our goals were to rapidly build a robust contacts application for use by other applications and to prove out a new Windows development model where web application development is a first-tier development model for Windows.
+The Windows Live Login Management Server (LMS) allows users to recover their Windows Live ID accounts if they have been compromised by an attacker or marked as suspect for spamming activities. The LMS guides the user through a set of questions to determine if they are both “human” and the legitimate owner of the account, then resets the account and helps the user to establish alternate authentication mechanisms to prevent future compromise. My role was to design the application and build the software. Upon delivery of the code, the number of co-owned accounts (those for which the attacker knows the password but the user is  unaware) dropped significantly.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+The Windows Live ID system is used by hundreds of millions of Internet users to log into Microsoft run properties such as Hotmail, Messenger, and Xbox Live. In an effort to modernize the system and reduce risk from using custom-built software, I spearheaded an investigation to convert core systems of the Windows Live ID login server from C++ to C#. I designed and built proof-of-concept code that allows existing components to be converted incrementally and new components to run in managed code as they are created using standard tools for .asmx files. Where components have been upgraded from native to managed code, the system allows for individual components to be failed back to previous versions in the event that the replacement components experience failure. I also demonstrated that the performance characteristics of the new system are on par with the existing code, which is important for a system that handles more than a billion login requests per day.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Also on the Windows Live ID system, I worked with another engineer to demonstrate how the main Windows Live ID login page could be converted from a POST request handler to an AJAX request to eliminate one of several redundant login paths. This work has led to the design of a system that allows browser clients to make smart decisions about where to route login requests. By making smarter choices, client login performance is improved significantly by servicing login requests geographically closer to the client (reduced latency). Routing to backup servers happens at the client when the primary servers are down, thereby improving service availability.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+**Principal Software Design Engineer / Lead SDE**: Windows Live Platform Incubation / Windows Live ID, [Microsoft Corporation](http://www.microsoft.com), Redmond, WA. (November 2007 – March 2009)  
+**_Technology_**: C#, ASP.Net/MVC, C++, SQL Server, HTML/CSS, Javascript, Trident, smart card, Silverlight (limited).
 
-[ref]: https://github.com/githubuser/superlongprojectname
+The purpose of the Windows Live Platform Incubation team is to demonstrate the value of new services leveraging existing components of Windows Live (Live ID, Messenger, Hotmail, etc.) to drive increased numbers of Windows Live users and make them more “sticky” to the service. My role is as a key player in the development effort for two different products – FrameIt and StartKey.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+[FrameIt](http://frameit.live.com) is a photo aggregation service for wireless digital picture frames that combines photos from online services such as Spaces, Facebook, and SmugMug into a single RSS feed that is displayed on the picture frame. Additionally, the user may include other online content such as news or weather that turns their digital picture frame into a complete view of their online presence. I wrote a significant portion of the initial UI framework as well as much of the code that renders content from other sources.
 
-* Human Languages:
+StartKey is a project designed to improve Windows Live ID security through the use of smart card technology and two-factor authentication. Delivered updates to the Windows Live ID service that allows hundreds of millions of users to upload their digital certificate to Windows Live and log in using their associated smart card. My role was to build a prototype with a small team of developers, and once we had a proof of concept ready then incorporate this work into the Live ID service.
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+**Principal Software Architect / Principal Program Manager**: Display Advertising Platform, [Microsoft Corporation](http://www.microsoft.com), Redmond, WA. (June 2006 – October 2007)  
+**_Technology_**: C#, C++, SQL Server, HTML/CSS.
 
-* Random tidbit
+As a member of the Display Advertising Platform team, I had three primary responsibilities. First, I led a small team of engineers, designing and coding prototype applications for new advertising concepts for both the Internet as well as out-of-home advertising. We identified new areas of opportunity, secured management approval to build proof-of-concept software and devices, created prototypes, and presented technology demonstrations. In addition to working within my own workgroup, we built strong working relationships outside of our team which generated additional support for our activities.
 
-* Other sort of impressive-sounding thing you did
+In my second role, I performed confirmatory technical due diligence on major acquisitions that are made by Microsoft of other advertising software companies. Leveraging my overall experience in the software industry, I evaluated the technical value of companies that we planned to purchase based on their overall architecture, strength of technical talent, security vulnerabilities, and use of third- party technologies. Based on these evaluations, I created recommendations that were used to justify the final purchase decision and price, including any remediation steps that needed to be taken to protect Microsoft's interests. I participated in the acquisition of ScreenTonic (mobile phone advertising) and the $6.1 billion acquisition of aQuantive, Inc (advertising agency), the largest acquisition ever by Microsoft as of that date.
 
-----
+In my third and final role, I evaluated patent pre-disclosures related to new advertising concepts. I made my recommendation of both the business value and novelty of each idea, and negotiated as necessary to push through the best ideas on a limited patent budget.
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+**Software Developer**: Centelex Corporation, Kent, WA. (June 2003 – December 2015)  
+**_Technology_**: PHP, MySQL, Apache, Bash, HTML/CSS, Javascript/AJAX, JSON, XML.
+
+With my business partner, we provide contract programming services in both ASP.Net/Windows and PHP/Linux. I also co-created the TimeSolver staff scheduling service used by businesses throughout the US to automatically schedule their employees to work shifts based on work requirements and employee availability. My contributions included the core design and programming of the web site UI (traditional and AJAX), authentication methods, billing and payment systems, database design, and data replication. See <http://www.timesolver.com>.
+
+**Visiting Instructor**: [Seattle Pacific University](http://www.spu.edu), Seattle, WA. (September 2002 – June 2003)  
+**_Technology_**: C++, C#, ASP.Net.
+
+I filled a vacant teaching position on a temporary, one year appointment. I instructed students in the following topics: CSC1230 - Problem Solving and Programming, CSC2430 - Data Structures I, and CSC4800 - Advanced Topics in Computing. The CSC4800 course introduced students to web programming using Microsoft ASP.NET and the .NET Framework. I was active in the search for a PhD candidate to permanently fill my position.
+
+**Development Manager**: MSN Shopping, [Microsoft Corporation](http://www.microsoft.com), Redmond, WA. (April 2000 – August 2002)  
+**_Technology_**: C#, VB, ASP.Net, SQL Server, HTML/CSS, Javascript, NT services.
+
+My role as development manager was to lead the technology effort on the eShop platform. I evaluated proposals for new features and provided rough cost estimates. I guided the scheduling of new work, and ensured that the tasks undertaken by my team were sufficient for the time allocated. I evaluated new technology for inclusion into our platform, and approved key architectural decisions for the platform. I worked with all the members of my team to improve their professional skills, as well as their understanding of the needs of our business so that they could make the appropriate technology trade-offs. I also worked with other teams both inside and outside of my group to communicate our needs and understand theirs. I contributed code to the platform, built tools to aid in the overall development process, and both triaged and fixed bugs.
+
+**Lead Software Design Engineer**: [Auto PC](http://www.microsoft.com/presspass/features/1998/12-4autopc.mspx), Microsoft Corporation, Redmond, WA. (April 1999 – March 2000)  
+**_Technology_**: C++, devices.
+
+As a lead software developer for the Auto PC team, I led the effort to bring wireless technologies to our platform. I designed and developed a technology for coordinating data and voice connections on a single device such as a cell phone. I also led the development of our POP3 based email solution.
