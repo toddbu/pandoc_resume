@@ -11,17 +11,17 @@ Education
 
 Bachelor of Science degree with a major in Computer Science. **Calvin College**, Grand Rapids, MI. May 1987.
 
-Technology
-----------
+Technology Summary
+------------------
 
-**Cross-Platform**: C, C++, Javascript/AJAX/JSON, SOAP, Web Services, HTML/HTML5/CSS/CSS3, Multi-threaded apps/thread synchronization, Sencha Touch
+**Cross-Platform**: Node.js, C, C++, Javascript/AJAX/JSON, React, REST, SOAP, Web Services, HTML/HTML5/CSS/CSS3, Multi-threaded apps/thread synchronization
+
+**Linux**: Docker, Cassandra, Apache, PHP, MySQL, Bash, RedHat/Ubuntu
 
 **Windows**: NT/XP/Win7/CE, C#, VB, ASP, ASP.Net/MVC, .Net Framework, IIS, ISAPI, Microsoft SQL Server, ODBC, COM/DCOM, ATL, XML DOM, named pipes, wininet, NT services, event logging, perfmon, Trident, and smart card.
 
-**Linux**: RedHat/Ubuntu, Apache, PHP, MySQL, Bash
-
-Patent
-------
+Patent Awards
+-------------
 
 I have co-authored and been awarded six patents by the US Patent and Trade Office:
 
@@ -32,8 +32,22 @@ I have co-authored and been awarded six patents by the US Patent and Trade Offic
 [9,071,651](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9,071,651.PN.&OS=PN/9,071,651&RS=PN/9,071,651) - Dynamic content delivery to network-enabled static display device  
 [9,112,702](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9,071,651.PN.&OS=PN/9,071,651&RS=PN/9,071,651) - Alternate authentication
 
+Work Summary
+------------
+
+I have been a professional Software Developer and Architect for nearly 30 years, primarily working on large scale global web sites with up to a billion transactions per day.  As a full-stack developer, I specialize in helping companies develop and onboard new technologies like React, Node, and Docker.  I have a great appreciation for good user experience.  I believe that good software is intuitive to use.
+
 Work Experience
 ---------------
+
+**Principal Software Development Engineer / Architect:** Six Dutchmen Corporation (March 2014 - Present)  
+**_Technology_**: Node.js, Cassandra, React, HTML5/CSS3, Javascript/AJAX, JSON, Docker, Kubernetes, Akamai CDN/DSA/GTM
+
+I have spent the last three years working to modernize portions of the [GoDaddy.com](http://www.godaddy.com) web site.  This includes rewriting C#/.Net code into Node.js, moving the applications into Docker containers, and deploying the applications across datacenters in the U.S., Europe, and Asia.  This work spawned an internal tool called "Expresso Hub" which is used by nearly 20 different internal applications.  The standardization of deployment and operations has reduced the time that it takes to bring new features to market.  It has also improved the quality of the code as we are able to test new code offline in the production environment.  Finally, it was freed up approximately five full-time engineers who would otherwise be committed to devops.  The "Expresso Hub" application is currently being retrofitted on top of Kubernetes to become the GoDaddy standard platform for deploying both internal and external web sites and RESTful APIs.
+
+----- ----- -----
+      * * *
+----- ----- -----
 
 **Architect Contractor:** CIBER, Inc (August 2011 - Present)  
 **_Technology_**: HTML5/CSS3, Javascript/AJAX, JSON, Sencha Touch, Adobe CQ5
@@ -49,7 +63,7 @@ Led two different initiatives to improve the <http://www.t-mobile.com> web site.
 **_Technology_**: C#, ASP.Net/MVC, C++, HTML5/CSS3, Javascript/AJAX, ATL, SOAP, WCF (limited), JSON.
 
 Windows 8 is Microsoft's competitive answer to the iPad and Android tablet systems. As part of the Windows 8 development team, I designed and implemented key components of the contacts application. Built in HTML5 and Javascript, our goals were to rapidly build a robust contacts application for use by other applications and to prove out a new Windows development model where web application development is a first-tier development model for Windows.
-The Windows Live Login Management Server (LMS) allows users to recover their Windows Live ID accounts if they have been compromised by an attacker or marked as suspect for spamming activities. The LMS guides the user through a set of questions to determine if they are both “human” and the legitimate owner of the account, then resets the account and helps the user to establish alternate authentication mechanisms to prevent future compromise. My role was to design the application and build the software. Upon delivery of the code, the number of co-owned accounts (those for which the attacker knows the password but the user is  unaware) dropped significantly.
+The Windows Live Login Management Server (LMS) allows users to recover their Windows Live ID accounts if they have been compromised by an attacker or marked as suspect for spamming activities. The LMS guides the user through a set of questions to determine if they are both “human” and the legitimate owner of the account, then resets the account and helps the user to establish alternate authentication mechanisms to prevent future compromise. My role was to design the application and build the software. Upon delivery of the code, the number of co-owned accounts (those for which the attacker knows the password but the user is unaware) dropped significantly.
 
 The Windows Live ID system is used by hundreds of millions of Internet users to log into Microsoft run properties such as Hotmail, Messenger, and Xbox Live. In an effort to modernize the system and reduce risk from using custom-built software, I spearheaded an investigation to convert core systems of the Windows Live ID login server from C++ to C#. I designed and built proof-of-concept code that allows existing components to be converted incrementally and new components to run in managed code as they are created using standard tools for .asmx files. Where components have been upgraded from native to managed code, the system allows for individual components to be failed back to previous versions in the event that the replacement components experience failure. I also demonstrated that the performance characteristics of the new system are on par with the existing code, which is important for a system that handles more than a billion login requests per day.
 
@@ -64,9 +78,9 @@ Also on the Windows Live ID system, I worked with another engineer to demonstrat
 
 The purpose of the Windows Live Platform Incubation team is to demonstrate the value of new services leveraging existing components of Windows Live (Live ID, Messenger, Hotmail, etc.) to drive increased numbers of Windows Live users and make them more "sticky" to the service. My role is as a key player in the development effort for two different products - FrameIt and StartKey.
 
-[FrameIt](http://frameit.live.com) is a photo aggregation service for wireless digital picture frames that combines photos from online services such as Spaces, Facebook, and SmugMug into a single RSS feed that is displayed on the picture frame. Additionally, the user may include other online content such as news or weather that turns their digital picture frame into a complete view of their online presence. I wrote a significant portion of the initial UI framework as well as much of the code that renders content from other sources.
+[FrameIt](https://en.wikipedia.org/wiki/Windows_Live_FrameIt) is a photo aggregation service for wireless digital picture frames that combines photos from online services such as Spaces, Facebook, and SmugMug into a single RSS feed that is displayed on the picture frame. Additionally, the user may include other online content such as news or weather that turns their digital picture frame into a complete view of their online presence. I wrote a significant portion of the initial UI framework as well as much of the code that renders content from other sources.
 
-StartKey is a project designed to improve Windows Live ID security through the use of smart card technology and two-factor authentication. Delivered updates to the Windows Live ID service that allows hundreds of millions of users to upload their digital certificate to Windows Live and log in using their associated smart card. My role was to build a prototype with a small team of developers, and once we had a proof of concept ready then incorporate this work into the Live ID service.
+[StartKey](https://en.wikipedia.org/wiki/StartKey) is a project designed to improve Windows Live ID security through the use of smart card technology and two-factor authentication. Delivered updates to the Windows Live ID service that allows hundreds of millions of users to upload their digital certificate to Windows Live and log in using their associated smart card. My role was to build a prototype with a small team of developers, and once we had a proof of concept ready then incorporate this work into the Live ID service.
 
 ----- ----- -----
       * * *
@@ -77,7 +91,7 @@ StartKey is a project designed to improve Windows Live ID security through the u
 
 As a member of the Display Advertising Platform team, I had three primary responsibilities. First, I led a small team of engineers, designing and coding prototype applications for new advertising concepts for both the Internet as well as out-of-home advertising. We identified new areas of opportunity, secured management approval to build proof-of-concept software and devices, created prototypes, and presented technology demonstrations. In addition to working within my own workgroup, we built strong working relationships outside of our team which generated additional support for our activities.
 
-In my second role, I performed confirmatory technical due diligence on major acquisitions that are made by Microsoft of other advertising software companies. Leveraging my overall experience in the software industry, I evaluated the technical value of companies that we planned to purchase based on their overall architecture, strength of technical talent, security vulnerabilities, and use of third- party technologies. Based on these evaluations, I created recommendations that were used to justify the final purchase decision and price, including any remediation steps that needed to be taken to protect Microsoft's interests. I participated in the acquisition of ScreenTonic (mobile phone advertising) and the $6.1 billion acquisition of aQuantive, Inc (advertising agency), the largest acquisition ever by Microsoft as of that date.
+In my second role, I performed confirmatory technical due diligence on major acquisitions that are made by Microsoft of other advertising software companies. Leveraging my overall experience in the software industry, I evaluated the technical value of companies that we planned to purchase based on their overall architecture, strength of technical talent, security vulnerabilities, and use of third- party technologies. Based on these evaluations, I created recommendations that were used to justify the final purchase decision and price, including any remediation steps that needed to be taken to protect Microsoft's interests. I participated in the acquisition of [ScreenTonic](https://news.microsoft.com/2007/05/03/microsoft-acquires-mobile-advertising-pioneer-screentonic/#sm.00000hnesumcgkfbjtrnftydwpjwq) (mobile phone advertising) and the [$6.1 billion acquisition of aQuantive, Inc](https://news.microsoft.com/2007/05/18/microsoft-to-acquire-aquantive-inc/#sm.00000hnesumcgkfbjtrnftydwpjwq) (advertising agency), the largest acquisition ever by Microsoft as of that date.
 
 In my third and final role, I evaluated patent pre-disclosures related to new advertising concepts. I made my recommendation of both the business value and novelty of each idea, and negotiated as necessary to push through the best ideas on a limited patent budget.
 
@@ -88,7 +102,7 @@ In my third and final role, I evaluated patent pre-disclosures related to new ad
 **Software Developer**: Centelex Corporation, Kent, WA. (June 2003 - December 2015)  
 **_Technology_**: PHP, MySQL, Apache, Bash, HTML/CSS, Javascript/AJAX, JSON, XML.
 
-With my business partner, we provide contract programming services in both ASP.Net/Windows and PHP/Linux. I also co-created the TimeSolver staff scheduling service used by businesses throughout the US to automatically schedule their employees to work shifts based on work requirements and employee availability. My contributions included the core design and programming of the web site UI (traditional and AJAX), authentication methods, billing and payment systems, database design, and data replication. See <http://www.timesolver.com>.
+With my business partner, we provide contract programming services in both ASP.Net/Windows and PHP/Linux. I also co-created the TimeSolver staff scheduling service used by businesses throughout the US to automatically schedule their employees to work shifts based on work requirements and employee availability. My contributions included the core design and programming of the web site UI (traditional and AJAX), authentication methods, billing and payment systems, database design, and data replication.
 
 ----- ----- -----
       * * *
@@ -103,7 +117,7 @@ I filled a vacant teaching position on a temporary, one year appointment. I inst
       * * *
 ----- ----- -----
 
-**Development Manager**: MSN Shopping, [Microsoft Corporation](http://www.microsoft.com), Redmond, WA. (April 2000 - August 2002)  
+**Development Manager**: [MSN Shopping](https://news.microsoft.com/2000/12/05/msn-eshop-becomes-no-1-shopping-portal-on-the-web/#sm.00000hnesumcgkfbjtrnftydwpjwq), [Microsoft Corporation](http://www.microsoft.com), Redmond, WA. (April 2000 - August 2002)  
 **_Technology_**: C#, VB, ASP.Net, SQL Server, HTML/CSS, Javascript, NT services.
 
 My role as development manager was to lead the technology effort on the eShop platform. I evaluated proposals for new features and provided rough cost estimates. I guided the scheduling of new work, and ensured that the tasks undertaken by my team were sufficient for the time allocated. I evaluated new technology for inclusion into our platform, and approved key architectural decisions for the platform. I worked with all the members of my team to improve their professional skills, as well as their understanding of the needs of our business so that they could make the appropriate technology trade-offs. I also worked with other teams both inside and outside of my group to communicate our needs and understand theirs. I contributed code to the platform, built tools to aid in the overall development process, and both triaged and fixed bugs.
@@ -112,7 +126,7 @@ My role as development manager was to lead the technology effort on the eShop pl
       * * *
 ----- ----- -----
 
-**Lead Software Design Engineer**: [Auto PC](http://www.microsoft.com/presspass/features/1998/12-4autopc.mspx), Microsoft Corporation, Redmond, WA. (April 1999 - March 2000)  
+**Lead Software Design Engineer**: [Auto PC](https://news.microsoft.com/1998/01/08/microsoft-announces-auto-pc-pc-companion-powered-by-windows-ce-2-0/#sm.00000hnesumcgkfbjtrnftydwpjwq), [Microsoft Corporation](http://www.microsoft.com), Redmond, WA. (April 1999 - March 2000)  
 **_Technology_**: C++, devices.
 
 As a lead software developer for the Auto PC team, I led the effort to bring wireless technologies to our platform. I designed and developed a technology for coordinating data and voice connections on a single device such as a cell phone. I also led the development of our POP3 based email solution.
@@ -121,7 +135,7 @@ As a lead software developer for the Auto PC team, I led the effort to bring wir
       * * *
 ----- ----- -----
 
-**Lead Software Design Engineer**: Internet Bill Delivery and Payment Team (Transpoint), Microsoft Corporation, Redmond, WA.  (October 1996 - April 1999)  
+**Lead Software Design Engineer**: Internet Bill Delivery and Payment Team ([Transpoint](http://www.wsj.com/articles/SB95066625630836681)), [Microsoft Corporation](http://www.microsoft.com), Redmond, WA.  (October 1996 - April 1999)  
 **_Technology_**: C++, SQL Server, ODBC, HTML/CSS, NT services, event logging, perfmon.
 
 I designed and developed software for presenting and paying bills over the Internet.  I led the development of the core technology for our service center where all of the billing and payment information was stored.  I wrote our database connector (wrapping ODBC) and many of our middle tier objects using C++.  I also developed our security object and used it to develop a standardized framework for our web client.  I led the development of our ASP-based web client until it could be handed off for cleanup and branding.  I built much of our common library code, including code-authoring tools for event logging and perfmon counters.  I also developed a technology for caching COM automation objects called from within an ASP page.  I designed and developed the core database structures in SQL Server.  In addition to my duties as a lead, I also worked with Program Management and Test to manage the schedule for the entire service center.  I served as a member of our triage team to ship the final product and as a member of our launch team that was chartered with deploying our service.
@@ -130,10 +144,10 @@ I designed and developed software for presenting and paying bills over the Inter
       * * *
 ----- ----- -----
 
-**Software Design Engineer**: Commerce Server Group, Microsoft Corporation, Redmond, WA.  (June 1995 - October 1996)  
+**Software Design Engineer**: Commerce Server Group, [Microsoft Corporation](http://www.microsoft.com), Redmond, WA.  (June 1995 - October 1996)  
 **_Technology_**: C++, SQL Server, ODBC, DCOM, named pipes, HTML/CSS
 
-I designed and developed retail shopping software that allows customers to place retail hard-good orders via the Internet.  Using an ISAPI DLL, NT services, and named pipes, I created an infrastructure using VC++ for retrieving data that was posted to a specific URL, passed it to a service that processed the data (using some components which came when we acquired [eShop](http://commerce.msn.com)), and returned a newly generated HTML page back to the browser.  I also designed and developed retail shopping server components that used MSN mail as a transport.  These components connected directly to the MSN mail servers, retrieved mail messages that contained order information, and processed the content.  They logged the order request in a SQL Server database and created new messages that were sent to the appropriate merchant with their specific order information.
+I designed and developed retail shopping software that allows customers to place retail hard-good orders via the Internet.  Using an ISAPI DLL, NT services, and named pipes, I created an infrastructure using VC++ for retrieving data that was posted to a specific URL, passed it to a service that processed the data (using some components which came when we acquired [eShop](https://news.microsoft.com/2000/12/05/msn-eshop-becomes-no-1-shopping-portal-on-the-web/#sm.00000hnesumcgkfbjtrnftydwpjwq)), and returned a newly generated HTML page back to the browser.  I also designed and developed retail shopping server components that used MSN mail as a transport.  These components connected directly to the MSN mail servers, retrieved mail messages that contained order information, and processed the content.  They logged the order request in a SQL Server database and created new messages that were sent to the appropriate merchant with their specific order information.
 
 ----- ----- -----
       * * *
