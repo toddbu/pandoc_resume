@@ -41,7 +41,7 @@ Work Experience
 ---------------
 
 **Principal Software Development Engineer / Architect:** Six Dutchmen Corporation (March 2014 - Present)  
-**_Technology_**: Node.js, Cassandra, React, HTML5/CSS3, Javascript/AJAX, JSON, Docker, Kubernetes, Akamai CDN/DSA/GTM
+**_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, Bootstrap, HTML5/CSS3, Javascript/AJAX, JSON, Akamai CDN/DSA/GTM
 
 I have spent the last three years working to modernize portions of the [GoDaddy.com](http://www.godaddy.com) web site.  This includes rewriting C#/.Net code into Node.js, moving the applications into Docker containers, and deploying the applications across datacenters in the U.S., Europe, and Asia.  This work spawned an internal tool called "Expresso Hub" which is used by nearly 20 different internal applications.  The standardization of deployment and operations has reduced the time that it takes to bring new features to market.  It has also improved the quality of the code as we are able to test new code offline in the production environment.  Finally, it was freed up approximately five full-time engineers who would otherwise be committed to DevOps.  The "Expresso Hub" application is currently being retrofitted on top of Kubernetes to become the GoDaddy standard platform for deploying both internal and external web sites and RESTful APIs.
 
@@ -49,7 +49,7 @@ I have spent the last three years working to modernize portions of the [GoDaddy.
       * * *
 ----- ----- -----
 
-**Architect Contractor:** CIBER, Inc (August 2011 - Present)  
+**Architect Contractor:** CIBER, Inc (August 2011 - March 2014)  
 **_Technology_**: HTML5/CSS3, Javascript/AJAX, JSON, Sencha Touch, Adobe CQ5
 
 Designed and implemented an extension for T-Mobile's QuikView application on a tablet computer (iPad and Android). QuikView is an internal program used by T-Mobile staff to resolve customer account issues and sell new cell phone service and handsets. For this particular application, portions of the QuikView program were rewritten to support tablet computers for use in the T-Mobile stores so that agents are no longer chained to a desktop computer to help customers on the sales floor.
