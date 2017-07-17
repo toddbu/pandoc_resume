@@ -14,7 +14,7 @@ Bachelor of Science degree with a major in Computer Science. **Calvin College**,
 Technology Summary
 ------------------
 
-**Cross-Platform**: Node.js, C, C++, Javascript/AJAX/JSON, React, REST, SOAP, Web Services, HTML/HTML5/CSS/CSS3, Multi-threaded apps/thread synchronization
+**Cross-Platform**: Node.js, C, C++, Javascript/AJAX/JSON, React, REST, SOAP, Web Services, HTML/HTML5/CSS/CSS3, .Net Core, Multi-threaded apps/thread synchronization
 
 **Linux**: Docker, Cassandra, Apache, PHP, MySQL, Bash, RedHat/Ubuntu
 
@@ -41,9 +41,11 @@ Work Experience
 ---------------
 
 **Principal Software Development Engineer / Architect:** Six Dutchmen Corporation (March 2014 - Present)  
-**_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, Bootstrap, HTML5/CSS3, Javascript/AJAX, JSON, Akamai CDN/DSA/GTM
+**_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, Redux, Bootstrap, HTML5/CSS3, Javascript/AJAX, JSON, .Net Core, Akamai CDN/DSA/GTM
 
-I have spent the last three years working to modernize portions of the [GoDaddy.com](http://www.godaddy.com) web site.  This includes rewriting C#/.Net code into Node.js, moving the applications into Docker containers, and deploying the applications across datacenters in the U.S., Europe, and Asia.  This work spawned an internal tool called "Expresso Hub" which is used by nearly 20 different internal applications.  The standardization of deployment and operations has reduced the time that it takes to bring new features to market.  It has also improved the quality of the code as we are able to test new code offline in the production environment.  Finally, it was freed up approximately five full-time engineers who would otherwise be committed to DevOps.  The "Expresso Hub" application is currently being retrofitted on top of Kubernetes to become the GoDaddy standard platform for deploying both internal and external web sites and RESTful APIs.
+Designed and implemented portions of Carnival Cruise Lines "Ocean Compass Web" (OCW) website.  As part of the [Ocean Medallion](http://www.princess.com/ships-and-experience/ocean-medallion-class/) program announced by Carnival in the [keynote address at CES 2017](https://www.youtube.com/watch?v=Im7xJeHrvkM), OCW gives cruise line guests a much simpler and more enjoyable travel experience by using wireless technology to become their personal concierge.  OCW manages every aspect of a guest's experience including travel to/from the vessel, stateroom configuration, dietary and dining preferences, shore excursions, and much, much more.
+
+Spent three years modernizing the [GoDaddy.com](http://www.godaddy.com) web site.  This includes designing and building Node.js applications to run in Docker containers and deploying those applications across datacenters in the U.S., Europe, and Asia.  This work spawned an internal tool called "Expresso Hub" which is used by nearly 20 different internal applications.  The standardization of deployment and operations significantly reduced the time to bring new features to market.  It also improved the quality of the code by allowing new code to be tested offline using data from the production environment.  Finally, we freed up approximately five full-time engineers who would otherwise be committed to DevOps.  Deployments that would typically take a full day could be done in less that five minutes.  The "Expresso Hub" application was built on top of Kubernetes and became the GoDaddy standard platform for deploying both internal and external web sites and RESTful APIs.
 
 ----- ----- -----
       * * *
