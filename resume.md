@@ -35,10 +35,15 @@ I have co-authored and been awarded six patents by the US Patent and Trade Offic
 Work Summary
 ------------
 
-I have been a professional Software Developer and Architect for nearly 30 years, primarily working on large scale global web sites with up to a billion transactions per day.  As a full-stack developer, I specialize in helping companies develop and onboard new technologies like React, Node, and Docker.  I have a great appreciation for good user experience.  I believe that good software is intuitive to use.
+I have been a professional Software Developer and Architect for nearly 30 years, primarily working on large scale global web sites with up to a billion transactions per day.  As a full-stack developer, I specialize in helping companies develop and onboard new technologies like React, Node, and Docker.  I have a great appreciation for good user experience.  I believe that good software is intuitive to use and makes life better for the customer.
 
 Work Experience
 ---------------
+
+**Architect:** [Intelight ITS](http://intelight-its.com/) (September 2017 - Present)
+**_Technology_**: Node.js, Docker, Cassandra, MySQL, Postgres, Citus, TimescaleDB, Logstash
+
+Designed and implemented a scalable event ingestion pipeline capable of processing a trillion events per customer per year using Node and MySQL. Designed and implemented long-term storage solution for compressing inbound event traffic by over 97%.
 
 **Principal Software Development Engineer / Architect:** Six Dutchmen Corporation (March 2014 - Present)  
 **_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, Redux, Bootstrap, HTML5/CSS3, Javascript/AJAX, JSON, .Net Core, Akamai CDN/DSA/GTM
