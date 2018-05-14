@@ -9,7 +9,8 @@ Kent, WA  98042                         206.459.6213
 Education
 ---------
 
-Bachelor of Science degree with a major in Computer Science. **Calvin College**, Grand Rapids, MI. May 1987.
+Bachelor of Science degree with a major in Computer Science.  
+**Calvin College**, Grand Rapids, MI. May 1987.
 
 Technology Summary
 ------------------
@@ -35,22 +36,22 @@ I have co-authored and been awarded six patents by the US Patent and Trade Offic
 Work Summary
 ------------
 
-I have been a professional Software Developer and Architect for nearly 30 years, primarily working on large scale global web sites with up to a billion transactions per day.  As a full-stack developer, I specialize in helping companies develop and onboard new technologies like React, Node, and Docker.  I have a great appreciation for good user experience.  I believe that good software is intuitive to use and makes life better for the customer.
+I have been a professional Software Developer and Architect for nearly 30 years, primarily working on large scale global web sites with up to a billion transactions per day.  As a full-stack developer, I specialize in helping companies develop and onboard new technologies like React, Node.js, and Docker.  I have a great appreciation for good user experience.  I believe that good software is intuitive to use and makes life better for the customer.
 
 Work Experience
 ---------------
 
-**Architect:** [Intelight ITS](http://intelight-its.com/) (September 2017 - Present)
-**_Technology_**: Node.js, Docker, Cassandra, MySQL, Postgres, Citus, TimescaleDB, Logstash
+**Architect:** [Intelight ITS](http://intelight-its.com/) (September 2017 - Present)  
+**_Technology_**: Node.js, Docker, Cassandra, MySQL, Postgres, Citus, TimescaleDB, Logstash, IoT
 
-Designed and implemented a scalable event ingestion pipeline capable of processing a trillion events per customer per year using Node and MySQL. Designed and implemented long-term storage solution for compressing inbound event traffic by over 97%.
+Designed and implemented a pluggable, scalable event ingestion pipeline capable of processing a trillion traffic signal events per customer per year using Node and MySQL. Designed and implemented long-term storage solution for compressing inbound event traffic by over 97%.
 
 **Principal Software Development Engineer / Architect:** Six Dutchmen Corporation (March 2014 - Present)  
 **_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, Redux, Bootstrap, HTML5/CSS3, Javascript/AJAX, JSON, .Net Core, Akamai CDN/DSA/GTM
 
 Designed and implemented portions of Carnival Cruise Lines "Ocean Compass Web" (OCW) website.  As part of the [Ocean Medallion](http://www.princess.com/ships-and-experience/ocean-medallion-class/) program announced by Carnival in the [keynote address at CES 2017](https://www.youtube.com/watch?v=Im7xJeHrvkM), OCW gives cruise line guests a much simpler and more enjoyable travel experience by using wireless technology to become their personal concierge.  OCW manages every aspect of a guest's experience including travel to/from the vessel, stateroom configuration, dietary and dining preferences, shore excursions, and much, much more.
 
-Spent three years modernizing the [GoDaddy.com](http://www.godaddy.com) web site.  This includes designing and building Node.js applications for various pages on [http://www.godaddy.com](http://www.godaddy.com).  These applications ran in Docker containers and were deployed across datacenters in the U.S., Europe, and Asia.  This work spawned an internal tool called "Expresso Hub" which is used by nearly 20 different internal applications.  The standardization of deployment and operations significantly reduced the time to bring new features to market.  It also improved the quality of the code by allowing new code to be tested offline using data from the production environment.  Finally, we freed up approximately five full-time engineers who would otherwise be committed to DevOps.  Deployments that would typically take a full day could be done in less that five minutes.  The "Expresso Hub" application was built on top of Kubernetes and became the GoDaddy standard platform for deploying both internal and external web sites and RESTful APIs.
+Spent three years modernizing the [GoDaddy.com](http://www.godaddy.com) web site.  This includes designing and building Node.js applications for various pages on [http://www.godaddy.com](http://www.godaddy.com).  These applications ran in Docker containers and were deployed across datacenters in the U.S., Europe, and Asia.  This work spawned an internal tool called "Expresso Hub" which is used by nearly 20 different internal applications.  The standardization of deployment and operations significantly reduced the time to bring new features to market.  It also improved the quality of the code by allowing new code to be tested offline using data from the production environment.  Finally, we freed up approximately five full-time engineers who would otherwise be committed to operations.  Deployments that had typically taken a full day could be done in less that five minutes.  The "Expresso Hub" application was built on top of Kubernetes and became the GoDaddy standard platform for deploying both internal and external web sites and RESTful APIs.
 
 ----- ----- -----
       * * *
