@@ -17,7 +17,7 @@ Technology Summary
 
 **Cross-Platform**: Node.js, C, C++, Javascript/AJAX/JSON, React, REST, SOAP, Web Services, HTML/HTML5/CSS/CSS3, .Net Core, Multi-threaded apps/thread synchronization
 
-**Linux**: Docker, Cassandra, Apache, PHP, MySQL, Bash, RedHat/Ubuntu
+**Linux**: Docker, Cassandra, Apache, PHP, MySQL, Bash, RedHat/Ubuntu, Raspberry Pi
 
 **Windows**: NT/XP/Win7/CE, C#, VB, ASP, ASP.Net/MVC, .Net Framework, IIS, ISAPI, Microsoft SQL Server, ODBC, COM/DCOM, ATL, XML DOM, named pipes, wininet, NT services, event logging, perfmon, Trident, and smart card.
 
@@ -41,7 +41,7 @@ I have been a professional Software Developer and Architect for nearly 30 years,
 Work Experience
 ---------------
 
-**Architect:** [Intelight ITS](http://intelight-its.com/) (September 2017 - Present)  
+**Architect / Software Development Engineer:** [Intelight ITS](http://intelight-its.com/) (September 2017 - Present)  
 **_Technology_**: Node.js, Docker, Cassandra, MySQL, Postgres, Citus, TimescaleDB, Logstash, IoT
 
 Designed and implemented a pluggable, scalable event ingestion pipeline capable of processing a trillion traffic signal events per customer per year using Node and MySQL. Designed and implemented long-term storage solution for compressing inbound event traffic by over 97%.
@@ -165,5 +165,5 @@ I designed and developed retail shopping software that allows customers to place
 **Computer Systems Manager**: [Charlie's Produce](http://www.charliesproduce.com), Seattle, WA.  (November 1993 - January 1995)  
 **Computer Analyst**: [SYSCO](http://www.sysco.com), Kent, WA.  (March 1992 - October 1993)  
 **Computer Systems Manager**: Maly's, Grand Rapids, MI.  (April 1989 - November 1991)  
-Computer Programmer: [Granco-Clark](http://www.grancoclark.com), Belding, MI.  (April 1988 - April 1989)  
-Programmer/Analyst: Ann Arbor Computer, Division of [Jervis B. Webb](https://en.wikipedia.org/wiki/Jervis_B._Webb_Company), Ann Arbor, MI.  (May 1987 - April 1988)
+**Computer Programmer**: [Granco-Clark](http://www.grancoclark.com), Belding, MI.  (April 1988 - April 1989)  
+**Programmer/Analyst**: Ann Arbor Computer, Division of [Jervis B. Webb](https://en.wikipedia.org/wiki/Jervis_B._Webb_Company), Ann Arbor, MI.  (May 1987 - April 1988)
