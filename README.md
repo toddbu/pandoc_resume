@@ -3,9 +3,9 @@ The Markdown Resume
 
 Instructions:
 
-    git clone https://github.com/mszep/pandoc_resume
+    git clone https://github.com/toddbu/pandoc_resume
     cd pandoc_resume
-    vim resume.md   #insert your own resume info
+    vi resume.md
     make
 
 Requirements:
