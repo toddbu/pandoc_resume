@@ -15,9 +15,9 @@ Bachelor of Science degree with a major in Computer Science.
 Technology Summary
 ------------------
 
-**Cross-Platform**: Node.js, C, C++, Javascript/AJAX/JSON, React, REST, SOAP, Web Services, HTML/HTML5/CSS/CSS3, .Net Core, Multi-threaded apps/thread synchronization
+**Cross-Platform**: Node.js, C, C++, Javascript/AJAX/JSON, SPA, React, Redux, SAML, JWT, REST, SOAP, Web Services, HTML/HTML5/CSS/CSS3, .Net Core, Multi-threaded apps/thread synchronization
 
-**Linux**: Docker, Cassandra, Apache, PHP, MySQL, Bash, RedHat/Ubuntu, Raspberry Pi
+**Linux**: Docker, Kubernetes, Microservice Architecture, Cloud (AWS), Cassandra, Apache, PHP, MySQL, Bash, RedHat/Ubuntu, Raspberry Pi
 
 **Windows**: NT/XP/Win7/CE, C#, VB, ASP, ASP.Net/MVC, .Net Framework, IIS, ISAPI, Microsoft SQL Server, ODBC, COM/DCOM, ATL, XML DOM, named pipes, wininet, NT services, event logging, perfmon, Trident, and smart card.
 
@@ -36,28 +36,27 @@ I have co-authored and been awarded six patents by the US Patent and Trade Offic
 Work Summary
 ------------
 
-I have been a professional Software Developer and Architect for nearly 30 years, primarily working on large scale global web sites with up to a billion transactions per day.  As a full-stack developer, I specialize in helping companies develop and onboard new technologies like React, Node.js, and Docker.  I have a great appreciation for good user experience.  I believe that good software is intuitive to use and makes life better for the customer.
+I have been a professional Software Developer and Architect for nearly 30 years, primarily working on large scale global web sites with up to a billion transactions per day.  As a developer experienced with both frontend and backend technologies, I specialize in helping companies develop and onboard new technologies like React, Node.js, and Docker.  I have a great appreciation for good user experience.  I believe that good software is intuitive to use and makes life better for the customer.
 
 Work Experience
 ---------------
 
-**Architect / Software Development Engineer:** [Intelight ITS](http://intelight-its.com/) (September 2017 - Present)  
-**_Technology_**: Node.js, Docker, Cassandra, MySQL, Postgres, Citus, TimescaleDB, Logstash, IoT
-
-Designed and implemented a pluggable, scalable event ingestion pipeline capable of processing a trillion traffic signal events per customer per year using Node and MySQL. Designed and implemented long-term storage solution for compressing inbound event traffic by over 97%.
-
 **Principal Software Development Engineer / Architect:** Six Dutchmen Corporation (March 2014 - Present)  
-**_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, Redux, Bootstrap, HTML5/CSS3, Javascript/AJAX, JSON, .Net Core, Akamai CDN/DSA/GTM
+**_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, Redux, Material UI, HTML5/CSS3, Javascript/AJAX, JSON, SAML, JWT, .Net Core, Akamai CDN/DSA/GTM, MySQL, Postgres, Citus, TimescaleDB, Logstash, IoT, Jenkins
 
-Designed and implemented portions of Carnival Cruise Lines "Ocean Compass Web" (OCW) website.  As part of the [Ocean Medallion](http://www.princess.com/ships-and-experience/ocean-medallion-class/) program announced by Carnival in the [keynote address at CES 2017](https://www.youtube.com/watch?v=Im7xJeHrvkM), OCW gives cruise line guests a much simpler and more enjoyable travel experience by using wireless technology to become their personal concierge.  OCW manages every aspect of a guest's experience including travel to/from the vessel, stateroom configuration, dietary and dining preferences, shore excursions, and much, much more.
+For [Xandr](https://www.xandr.com/) (the advertising unit of AT&T after the merger of AT&T and Time-Warner), I designed and implemented both React frontend components and Node backend APIs to integrate the [Snowflake](https://www.snowflake.com/) cloud data analysis tool into a usable package for Xandr employees. Our solution combined Material UI with SAML-based authentication (converted to JWTs) to provide a seamless user experience to queries on adverising inventory and performance. The entire solution is hosted on Amazon Web Service (AWS) and Elastic Kubernete Service (EKS). Additionally, as an advocate for code quality, I drove shared React and Node libraries across the entire project. I also rallied our development team around unit testing and implemented a Pull Request builder to ensure that unit tests passed all checks before code is merged in GitHub.
 
-Spent three years modernizing the [GoDaddy.com](http://www.godaddy.com) web site.  This includes designing and building Node.js applications for various pages on [http://www.godaddy.com](http://www.godaddy.com).  These applications ran in Docker containers and were deployed across datacenters in the U.S., Europe, and Asia.  This work spawned an internal tool called "Expresso Hub" which is used by nearly 20 different internal applications.  The standardization of deployment and operations significantly reduced the time to bring new features to market.  It also improved the quality of the code by allowing new code to be tested offline using data from the production environment.  Finally, we freed up approximately five full-time engineers who would otherwise be committed to operations.  Deployments that had typically taken a full day could be done in less that five minutes.  The "Expresso Hub" application was built on top of Kubernetes and became the GoDaddy standard platform for deploying both internal and external web sites and RESTful APIs.
+For [Intelight](https://www.intelight-its.com/), I designed and implemented a pluggable, scalable event ingestion pipeline capable of processing a trillion traffic signal events per customer per year using Node and several SQL and No-SQL databases (Influx, Casssandra, MySQL, PostGres, TimescaleDB, and Citus). I also designed and implemented long-term storage solution for compressing inbound event traffic by over 97%, thereby reducing each terabyte of event data to a mere 30GB.
+
+For Carnival Cruise Lines, I designed and implemented portions of  "Ocean Compass Web" (OCW) website.  As part of the [Ocean Medallion](http://www.princess.com/ships-and-experience/ocean-medallion-class/) program announced by Carnival in the [keynote address at CES 2017](https://www.youtube.com/watch?v=Im7xJeHrvkM), OCW gives cruise line guests a much simpler and more enjoyable travel experience by using wireless technology to become their personal concierge.  OCW manages every aspect of a guest's experience including travel to/from the vessel, stateroom configuration, dietary and dining preferences, shore excursions, and much, much more.
+
+I spent three years modernizing the [GoDaddy.com](http://www.godaddy.com) web site.  This includes designing and building Node.js applications for various pages on [http://www.godaddy.com](http://www.godaddy.com).  These applications ran in Docker containers and were deployed across datacenters in the U.S., Europe, and Asia.  This work spawned an internal tool called "Expresso Hub" which is used by nearly 20 different internal applications.  The standardization of deployment and operations significantly reduced the time to bring new features to market.  It also improved the quality of the code by allowing new code to be tested offline using data from the production environment.  Finally, we freed up approximately five full-time engineers who would otherwise be committed to operations.  Deployments that had typically taken a full day could be done in less that five minutes.  The "Expresso Hub" application was built on top of Kubernetes and became the GoDaddy standard platform for deploying both internal and external web sites and RESTful APIs.
 
 ----- ----- -----
       * * *
 ----- ----- -----
 
-**Architect Contractor:** CIBER, Inc (August 2011 - March 2014)  
+**SDE/Architect Contractor:** CIBER, Inc (August 2011 - March 2014)  
 **_Technology_**: HTML5/CSS3, Javascript/AJAX, JSON, Sencha Touch, Adobe CQ5
 
 Designed and implemented an extension for T-Mobile's QuikView application on a tablet computer (iPad and Android). QuikView is an internal program used by T-Mobile staff to resolve customer account issues and sell new cell phone service and handsets. For this particular application, portions of the QuikView program were rewritten to support tablet computers for use in the T-Mobile stores so that agents are no longer chained to a desktop computer to help customers on the sales floor.
