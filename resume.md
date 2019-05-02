@@ -15,11 +15,13 @@ Bachelor of Science degree with a major in Computer Science.
 Technology Summary
 ------------------
 
-**Cross-Platform**: Node.js, C, C++, Javascript/AJAX/JSON, SPA, React, Redux, SAML, JWT, REST, SOAP, Web Services, HTML/HTML5/CSS/CSS3, .Net Core, Multi-threaded apps/thread synchronization
+**Cross-Platform**: Node.js, C, C++, Javascript/AJAX/JSON, SPA, React, Redux, SAML, JWT, REST, SOAP, Web Services, Kestrel, HTML/HTML5/CSS/CSS3, .Net Core, Multi-threaded apps/thread synchronization
 
-**Linux**: Docker, Kubernetes, Microservice Architecture, Cloud (AWS), Cassandra, Apache, PHP, MySQL, Bash, RedHat/Ubuntu, Raspberry Pi
+**Linux**: Docker, Kubernetes, Microservice Architecture, Cloud (AWS and Azure), Cassandra, Apache, PHP, MySQL, Bash, RedHat/Centos/Debian/Ubuntu, Raspberry Pi
 
-**Windows**: NT/XP/Win7/CE, C#, VB, ASP, ASP.Net/MVC, .Net Framework, IIS, ISAPI, Microsoft SQL Server, ODBC, COM/DCOM, ATL, XML DOM, named pipes, wininet, NT services, event logging, perfmon, Trident, and smart card.
+**Windows**: 10/8/7/NT/XP/CE, C#, VB, ASP, ASP.Net/MVC, .Net Framework, IIS, ISAPI, Microsoft SQL Server (MSSQL), ODBC, COM/DCOM, ATL, XML DOM, named pipes, wininet, NT services, event logging, perfmon, Trident, and smart card.
+
+**Other**: Agile, Kanban
 
 Patent Awards
 -------------
@@ -36,7 +38,7 @@ I have co-authored and been awarded six patents by the US Patent and Trade Offic
 Work Summary
 ------------
 
-I have been a professional Software Developer and Architect for nearly 30 years, primarily working on large scale global web sites with up to a billion transactions per day.  As a developer experienced with both frontend and backend technologies, I specialize in helping companies develop and onboard new technologies like React, Node.js, and Docker.  I have a great appreciation for good user experience.  I believe that good software is intuitive to use and makes life better for the customer.
+I have been a professional Software Developer and Architect for over 30 years, primarily working on large scale global web sites with up to a billion transactions per day.  As a developer highly skilled in both frontend and backend technologies, I am up-to-date in many modern technologies such as React, HTML 5, and CSS3 (frontend) and Node.js, REST APIs, Docker, and Kubernetes (backend). I have been active in driving DevOps infrastructure changes and unit testing frameworks into the software development process.
 
 Work Experience
 ---------------
@@ -44,7 +46,7 @@ Work Experience
 **Principal Software Development Engineer / Architect:** Six Dutchmen Corporation (March 2014 - Present)  
 **_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, Redux, Material UI, HTML5/CSS3, Javascript/AJAX, JSON, SAML, JWT, .Net Core, Akamai CDN/DSA/GTM, MySQL, Postgres, Citus, TimescaleDB, Logstash, IoT, Jenkins
 
-For [Xandr](https://www.xandr.com/) (the advertising unit of AT&T after the merger of AT&T and Time-Warner), I designed and implemented both React frontend components and Node backend APIs to integrate the [Snowflake](https://www.snowflake.com/) cloud data analysis tool into a usable package for Xandr employees. Our solution combined Material UI with SAML-based authentication (converted to JWTs) to provide a seamless user experience to queries on adverising inventory and performance. The entire solution is hosted on Amazon Web Service (AWS) and Elastic Kubernete Service (EKS). Additionally, as an advocate for code quality, I drove shared React and Node libraries across the entire project. I also rallied our development team around unit testing and implemented a Pull Request builder to ensure that unit tests passed all checks before code is merged in GitHub.
+For [Xandr](https://www.xandr.com/) (the advertising unit of AT&T after the merger of AT&T and Time-Warner), I designed and implemented both React frontend components and Node backend APIs to integrate the [Snowflake](https://www.snowflake.com/) cloud data analysis tool into a usable package for Xandr employees. Our solution combined Material UI with SAML-based authentication (converted to JWTs) to provide a seamless user experience to queries on adverising inventory and performance. The entire solution is hosted on Amazon Web Service (AWS) and Elastic Kubernetes Service (EKS). Additionally, as an advocate for code quality, I drove shared React and Node libraries across the entire project. I also rallied our development team around unit testing and implemented a Pull Request builder to ensure that unit tests passed all checks before code is merged in GitHub.
 
 For [Intelight](https://www.intelight-its.com/), I designed and implemented a pluggable, scalable event ingestion pipeline capable of processing a trillion traffic signal events per customer per year using Node and several SQL and No-SQL databases (Influx, Casssandra, MySQL, PostGres, TimescaleDB, and Citus). I also designed and implemented long-term storage solution for compressing inbound event traffic by over 97%, thereby reducing each terabyte of event data to a mere 30GB.
 
