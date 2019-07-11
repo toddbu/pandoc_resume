@@ -1,4 +1,4 @@
 #!/bin/bash
 
-service samba start
+service smbd start
 sleep infinity
