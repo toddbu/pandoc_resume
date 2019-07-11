@@ -12,14 +12,19 @@ Education
 Bachelor of Science degree with a major in Computer Science.  
 **Calvin College**, Grand Rapids, MI. May 1987.
 
+Work Summary
+------------
+
+I have been a professional Software Developer and Architect for over 30 years, primarily working on large scale global web sites with millions of users and billions of transactions per day.  As a developer highly skilled in both frontend and backend technologies, I am up-to-date in many modern technologies such as React, HTML 5, and CSS3 (frontend) and Node.js, REST APIs, Docker, and Kubernetes (backend). As a way to improve time-to-market and overall software quality, I have been active in driving DevOps infrastructure changes and unit testing frameworks into the software development process.
+
 Technology Summary
 ------------------
 
-**Cross-Platform**: Node.js, C, C++, Javascript/AJAX/JSON, SPA, React, Redux, SAML, JWT, REST, SOAP, Web Services, Kestrel, HTML/HTML5/CSS/CSS3, .Net Core, Multi-threaded apps/thread synchronization
+**Cross-Platform**: C, C++, Javascript/AJAX/JSON, SPA, React, Redux, SAML, JWT, REST, SOAP, Web Services, Kestrel, HTML/HTML5/CSS/CSS3, .Net Core, Multi-threaded apps/thread synchronization
 
-**Linux**: Docker, Kubernetes, Microservice Architecture, Cloud (AWS and Azure), Cassandra, Apache, PHP, MySQL, Bash, RedHat/Centos/Debian/Ubuntu, Raspberry Pi
+**Linux**: Node.js, Docker, Kubernetes, Microservice Architecture, Cloud (AWS and Azure), Cassandra, Apache, PHP, MySQL, Bash, RedHat/Centos/Debian/Ubuntu, Raspberry Pi
 
-**Windows**: 10/8/7/NT/XP/CE, C#, VB, ASP, ASP.Net/MVC, .Net Framework, IIS, ISAPI, Microsoft SQL Server (MSSQL), ODBC, COM/DCOM, ATL, XML DOM, named pipes, wininet, NT services, event logging, perfmon, Trident, and smart card.
+**Windows**: Server/10/8/7/NT/XP/CE, C#, .Net Core, VB, ASP, ASP.Net/MVC, .Net Framework, IIS, ISAPI, Microsoft SQL Server (MSSQL), ODBC, COM/DCOM, ATL, XML DOM, named pipes, wininet, NT services, event logging, perfmon, Trident, and smart card.
 
 **Other**: Agile, Kanban
 
@@ -34,11 +39,6 @@ I have co-authored and been awarded six patents by the US Patent and Trade Offic
 [8,156,418](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8,156,418.PN.&OS=PN/8,156,418&RS=PN/8,156,418) - Image acquisition from dynamic content for delivery to network-enabled static display devices  
 [9,071,651](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9,071,651.PN.&OS=PN/9,071,651&RS=PN/9,071,651) - Dynamic content delivery to network-enabled static display device  
 [9,112,702](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9,071,651.PN.&OS=PN/9,071,651&RS=PN/9,071,651) - Alternate authentication
-
-Work Summary
-------------
-
-I have been a professional Software Developer and Architect for over 30 years, primarily working on large scale global web sites with up to a billion transactions per day.  As a developer highly skilled in both frontend and backend technologies, I am up-to-date in many modern technologies such as React, HTML 5, and CSS3 (frontend) and Node.js, REST APIs, Docker, and Kubernetes (backend). I have been active in driving DevOps infrastructure changes and unit testing frameworks into the software development process.
 
 Work Experience
 ---------------
