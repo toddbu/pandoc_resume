@@ -1,11 +1,12 @@
-*.tuc
 *.log
-*.pdf
-*.html
-resume.tex
 *.swo
 *.swp
 *.docx
 *.rtf
 .DS_Store
 ._*
+output/
+result
+result-*
+.envrc
+.direnv
