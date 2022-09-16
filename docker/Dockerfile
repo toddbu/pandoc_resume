@@ -1,5 +1,5 @@
-FROM ubuntu:18.04
-RUN apt-get update; apt-get upgrade -y
+FROM ubuntu:22.04
+RUN apt-get update && apt-get upgrade -y
 
 # Get the packages required to run pandoc_resume
 ENV TERM=xterm-256color
