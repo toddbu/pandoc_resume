@@ -5,26 +5,34 @@ RUN apt-get update && apt-get upgrade -y
 ENV TERM=xterm-256color
 RUN apt-get install -y git make pandoc context
 
-# Add Samba so that we can see the files that we created
-RUN apt-get install -y samba
-# RUN echo "1"
-# RUN cat /etc/samba/smb.conf
-# RUN echo "==="
-RUN sed -i 's/;.*\[homes\]/\[homes\]/' /etc/samba/smb.conf;\
- sed -i 's/;.*comment = Home Directories/    comment = Home Directories/' /etc/samba/smb.conf;\
- sed -i 's/;.*read only = yes/    read only = no/' /etc/samba/smb.conf;\
- sed -i 's/;.*create mask = 0700/    create mask = 0700/' /etc/samba/smb.conf;\
- sed -i 's/;.*directory mask = 0700/    directory mask = 0700/' /etc/samba/smb.conf;\
- sed -i 's/;.*valid users = %S/    valid users = %S/' /etc/samba/smb.conf
-RUN cat /etc/samba/smb.conf
+# Add Samba, Netatalk, supervisord, and SSH so that we can see the files that we created
+RUN apt-get install -y samba netatalk supervisor openssh-server sudo autossh
+
+# Set up SSH
+RUN ssh-keygen -A;\
+  mkdir -p /var/run/sshd
+
+# Copy config files for supervisord defaults, samba, afp (netatalk), and ssh into supervisord
+COPY supervisord.conf /etc/supervisor/conf.d/
+COPY samba.conf /etc/supervisor/conf.d/
+COPY netatalk.conf /etc/supervisor/conf.d/
+COPY ssh.conf /etc/supervisor/conf.d/
+COPY smb.conf /etc/samba/
+COPY afp.conf /etc/netatalk/
+
 RUN adduser --disabled-password --gecos "" resume
 RUN echo "resume:resume" | chpasswd
 RUN (echo "resume"; echo "resume") | smbpasswd -a resume
-COPY boot /root/boot
-RUN chmod 770 /root/boot
-WORKDIR /root
+RUN echo "resume ALL=(ALL) NOPASSWD:ALL" >/etc/sudoers.d/resume;\
+ chmod 440 /etc/sudoers.d/resume
 
 # Grab the repo so we can make a resume
+WORKDIR /resume
 RUN cd /home/resume;\
  git clone https://github.com/toddbu/pandoc_resume.git;\
  chown -R resume.resume *
+
+# exposes samba's default ports (445 for smbd, afp port 548)
+EXPOSE 445 548
+
+ENTRYPOINT ["supervisord", "-c", "/etc/supervisor/supervisord.conf"]
