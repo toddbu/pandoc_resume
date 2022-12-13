@@ -28,9 +28,13 @@ RUN echo "resume ALL=(ALL) NOPASSWD:ALL" >/etc/sudoers.d/resume;\
 
 # Grab the repo so we can make a resume
 WORKDIR /resume
-RUN cd /home/resume;\
- git clone https://github.com/toddbu/pandoc_resume.git;\
- chown -R resume.resume *
+RUN cd /home/resume; \
+ mkdir pandoc_resume; \
+ cd pandoc_resume; \
+ git init .; \
+ git remote add origin git@github.com:toddbu/pandoc_resume.git; \
+ cd ..; \
+ chown -R resume.resume *; \
 
 # exposes samba's default ports (445 for smbd, afp port 548)
 EXPOSE 445 548
