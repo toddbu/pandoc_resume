@@ -34,7 +34,7 @@ RUN cd /home/resume; \
  git init .; \
  git remote add origin git@github.com:toddbu/pandoc_resume.git; \
  cd ..; \
- chown -R resume.resume *; \
+ chown -R resume.resume *;
 
 # exposes samba's default ports (445 for smbd, afp port 548)
 EXPOSE 445 548
