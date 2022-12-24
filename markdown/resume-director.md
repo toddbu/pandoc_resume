@@ -17,6 +17,8 @@ Work Summary
 
 I have been a professional Software Developer and Architect for over 35 years, primarily working on large scale global web sites with millions of users and billions of transactions per day.  As a developer skilled in both frontend and backend technologies, I am up-to-date in many modern technologies such as React, HTML 5, and CSS3 (frontend) and Node.js, Python, REST APIs, Docker, and Kubernetes (backend). I love designing and building complex software as well as helping my colleagues learn new technologies and processes.
 
+I have worked for a wide range of companies from small mom-and-pops to large multinationals (Microsoft, T-Mobile, GoDaddy). I specialize in web technology, global geo-distribution, and IoT.
+
 Technology Summary
 ------------------
 
