@@ -53,7 +53,7 @@ I have co-authored and been awarded six patents by the US Patent and Trade Offic
 Work Experience
 ---------------
 
-**Software Engineer:** [Apkudo, Inc](https://apkudo.com/) (August 2019 - Present)  
+**Software Engineer:** [Apkudo, Inc](https://apkudo.com/) (August 2019 - December 2022)  
 **_Technology_**: Node.js, Python, Docker, ECS, Postgres, JSON, SAML, JWT, FFmpeg/H.264, AWS, Robotics
 
 Whenever you break your cell phone and bring it back to the store to get a new one, your old phone is sent to a facility that checks its condition and decides if it should be repaired, sold off to a third party, or recycled. As part of the evaluation process, the cell phone is sent through a line of robots that checks it for scratches and dents, after which all of the functions of the device are tested (touch display, cameras, speakers and microphone, etc). Building upon an existing R&D prototype, my team operationalized this equipment, enhanced it to add new testing capabilities, and significantly improved the throughput of the system. In addition to being the lead designer and developer, I led a small team that converted a barely functional collection of robotic "cells" and made them work reliably and efficiently. My personal areas of focus are customer integration and configuration. This is key to our company's success as we move from having just one installation to several. Without a unified system to work across all sites, ongoing integration and maintenance costs make the system unprofitable.
@@ -66,7 +66,7 @@ The second way that I participated in reducing theft was to design and build a s
       * * *
 ----- ----- -----
 
-**Principal Software Development Engineer / Architect (Consulting):** Six Dutchmen Corporation (March 2014 - August 2019)  
+**Principal Software Development Engineer / Architect (Consulting):** Six Dutchmen Corporation (March 2014 - Present)  
 **_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, React Hooks, Redux, Material UI, HTML5/CSS3, Javascript/AJAX, JSON, SAML, JWT, C#, .Net Core, Akamai CDN/DSA/GTM, MySQL, Postgres, Citus, TimescaleDB, Logstash, IoT, Jenkins, SharePoint
 
 For [Lithia](https://www.lithia.com/), I designed and built both React frontend components and C# backend APIs to replace an existing, inefficient internal backoffice workflow. We replaced a series of Excel spreadsheets and macros to manage customer vehicle trade-ins with a custom-built user interface designed to improve the speed and accuracy of processing a large volume of such trade-ins. By integrating SharePoint directly into our application (secured by Azure Active Directory), we completely eliminated a cumbersome and error-prone process.

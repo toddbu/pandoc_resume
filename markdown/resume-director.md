@@ -66,7 +66,7 @@ As an engineer who values software resiliency, I introduced unit testing and cod
       * * *
 ----- ----- -----
 
-**Principal Software Development Engineer / Architect (Consulting):** Six Dutchmen Corporation (March 2014 - August 2019)  
+**Principal Software Development Engineer / Architect (Consulting):** Six Dutchmen Corporation (March 2014 - Present)  
 **_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, React Hooks, Redux, Material UI, HTML5/CSS3, Javascript/AJAX, JSON, SAML, JWT, C#, .Net Core, Akamai CDN/DSA/GTM, MySQL, Postgres, Citus, TimescaleDB, Logstash, IoT, Jenkins, SharePoint
 
 For [Lithia](https://www.lithia.com/), I designed and built both React frontend components and C# backend APIs to replace an existing, inefficient internal backoffice workflow. We replaced a series of Excel spreadsheets and macros to manage customer vehicle trade-ins with a custom-built user interface designed to improve the speed and accuracy of processing a large volume of such trade-ins. By integrating SharePoint directly into our application (secured by Azure Active Directory), we completely eliminated a cumbersome and error-prone process.
