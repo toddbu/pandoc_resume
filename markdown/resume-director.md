@@ -22,7 +22,7 @@ I have worked for a wide range of companies from small mom-and-pops to large mul
 Technology Summary
 ------------------
 
-**Programming Languages**: Node.js/Javascript/JSON, Python, C, C++, C#/.Net Core, VB, Bash, PHP, Assembly
+**Programming Languages**: Node.js/Javascript/JSON, Python, C, C++, C#/.Net Core, Java, VB, Bash, PHP, Assembly
 
 **FrontEnd**: React, Redux, HTML5/CSS3, JWT, SAML, SPA
 
@@ -54,7 +54,7 @@ Work Experience
 ---------------
 
 **Director of Engineering:** [Apkudo, Inc](https://apkudo.com/) (August 2019 - December 2022)  
-**_Technology_**: Node.js, Python, Docker, ECS, Postgres, JSON, SAML, JWT, FFmpeg/H.264, AWS, Robotics
+**_Technology_**: Node.js, Python, Java, Docker, ECS, Postgres, JSON, SAML, JWT, FFmpeg/H.264, AWS, Robotics
 
 Whenever you break your cell phone and bring it back to the store to get a new one, your old phone is sent to a facility that checks its condition and decides if it should be repaired, sold off to a third party, or recycled. As part of the evaluation process, the cell phone is sent through a line of robots that checks it for scratches and dents, after which all of the functions of the device are tested (touch display, cameras, speakers and microphone, etc). Building upon an existing R&D prototype, my team operationalized this equipment, enhanced it to add new testing capabilities, and significantly improved the throughput of the system. As the Director of Engineering, I hired and led the team that did this work. Not only did I oversee all work assignments and ensure that the work was completed in professional manner, but I also did most of the overarching design work myself. Once I had established design patterns that fit the needs of the system, I would then train my team on how to build upon it with their own designs.
 
@@ -84,7 +84,7 @@ I spent three years modernizing the [GoDaddy.com](http://www.godaddy.com) web si
 ----- ----- -----
 
 **SDE/Architect Contractor:** CIBER, Inc (August 2011 - March 2014)  
-**_Technology_**: HTML5/CSS3, Javascript/AJAX, JSON, Sencha Touch, Adobe CQ5
+**_Technology_**: HTML5/CSS3, Javascript/AJAX, Java, JSON, Sencha Touch, Adobe CQ5
 
 Designed and implemented an extension for T-Mobile's QuikView application on a tablet computer (iPad and Android). QuikView is an internal program used by T-Mobile staff to resolve customer account issues and sell new cell phone service and handsets. For this particular application, portions of the QuikView program were rewritten to support tablet computers for use in the T-Mobile stores so that agents are no longer chained to a desktop computer to help customers on the sales floor.
 Led two different initiatives to improve the <http://www.t-mobile.com> web site. In the first, I designed, built, and deployed a new system for code management and deployment to improve code quality, streamline development tasks, and save limited development resources. In the second, I co-designed a complete replacement for key portions of the site to convert it from .Net to Adobe CQ5. I also managed a team of developers and an external vendor to build and deploy the new code base. Both efforts required coordination with many teams inside our organization including testing, operations, and our business.
