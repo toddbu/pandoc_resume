@@ -17,7 +17,7 @@ Work Summary
 
 I have been a professional Software Developer and Architect for over 35 years, primarily working on large scale global web sites with millions of users and billions of transactions per day.  As a developer skilled in both frontend and backend technologies, I am up-to-date in many modern technologies such as React, HTML 5, and CSS3 (frontend) and Node.js, Python, REST APIs, Docker, and Kubernetes (backend). I love designing and building complex software as well as helping my colleagues learn new technologies and processes.
 
-I have worked for a wide range of companies from small mom-and-pops to large multinationals (Microsoft, T-Mobile, GoDaddy). I specialize in web technology, global geo-distribution, and IoT.
+I have worked for a wide range of companies from small mom-and-pops to large multinationals (Microsoft, Starbucks, T-Mobile, GoDaddy). I specialize in web technology, global geo-distribution, and IoT.
 
 Technology Summary
 ------------------
@@ -32,23 +32,25 @@ Technology Summary
 
 **Infrastructure**: Docker, Kubernetes, AWS (EC2, ECS, RDS, CloudWatch, IAM, Batch), Azure, Ansible, CI Build, GitHub, GitLab
 
-**Hardware**: Raspberry Pi, Raspberry Pi Pico, PLC, smart card
+**Hardware**: ESP32, nRF52840, Raspberry Pi Pico, Raspberry Pi, ARM, x86, RISC-V, RS-232, RS-485, Modbus, PLC, smart card
 
-**Operating Systems**: Ubuntu/Debian, Centos/RedHat, MacOS, Windows Server, Windows 10
+**Operating Systems**: Ubuntu/Debian, Centos/RedHat, FreeRTOS, MacOS, Windows
 
-**Other**: FFmpeg, Agile, Kanban
+**IoT**: LoRa, LoraWAN, MachineQ
+
+**Other**: SSH, FFmpeg, Agile, Kanban
 
 Patent Awards
 -------------
 
 I have co-authored and been awarded six patents by the US Patent and Trade Office:
 
-[5,126,945](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=5,126,945.PN.&OS=PN/5,126,945&RS=PN/5,126,945) - Nonferrous extrusion process control system  
-[6,304,857](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6,304,857.PN.&OS=PN/6,304,857&RS=PN/6,304,857) - Distributed electronic billing system with gateway interfacing biller and service center  
-[8,001,002](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8,001,002.PN.&OS=PN/8,001,002&RS=PN/8,001,002) - Interactively presenting advertising content offline  
-[8,156,418](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8,156,418.PN.&OS=PN/8,156,418&RS=PN/8,156,418) - Image acquisition from dynamic content for delivery to network-enabled static display devices  
-[9,071,651](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9,071,651.PN.&OS=PN/9,071,651&RS=PN/9,071,651) - Dynamic content delivery to network-enabled static display device  
-[9,112,702](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9,071,651.PN.&OS=PN/9,071,651&RS=PN/9,071,651) - Alternate authentication
+[5,126,945](https://patents.google.com/patent/US5126945A/en) - Nonferrous extrusion process control system  
+[6,304,857](https://patentimages.storage.googleapis.com/f2/c3/4d/63e608ffc0b253/US6304857.pdf) - Distributed electronic billing system with gateway interfacing biller and service center  
+[8,001,002](https://patentimages.storage.googleapis.com/a4/29/90/915460ee3407c7/US8001002.pdf) - Interactively presenting advertising content offline  
+[8,156,418](https://patentimages.storage.googleapis.com/e3/0a/bf/ffda7a935540d0/US8156418.pdf) - Image acquisition from dynamic content for delivery to network-enabled static display devices  
+[9,071,651](https://patentimages.storage.googleapis.com/9e/01/e8/68cb0bbcaf42c1/US9071651.pdf) - Dynamic content delivery to network-enabled static display device  
+[9,112,702 / 9,613,205](https://patentimages.storage.googleapis.com/ae/50/ce/f41fff2f033e1e/US9613205.pdf) - Alternate authentication
 
 Work Experience
 ---------------
