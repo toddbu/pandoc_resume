@@ -9,8 +9,9 @@ cd pandoc_resume/docker
 ./start
 docker exec -it resume bash
   # build a tunnel back to the Mac
-  autossh -M 0 -o "ServerAliveInterval 30" -o "ServerAliveCountMax 3" -R 2548:localhost:548 toddbu@10.0.0.20
+  autossh -M 0 -o "ServerAliveInterval 30" -o "ServerAliveCountMax 3" -R 2548:localhost:548 toddbu@10.0.0.20&
   sudo apt-get install inotify-hookable
+  cd pandoc_resume
   inotify-hookable -w markdown -c "make"
 ```
 
