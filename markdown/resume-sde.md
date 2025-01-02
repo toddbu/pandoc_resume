@@ -15,7 +15,7 @@ Bachelor of Science degree with a major in Computer Science.
 Work Summary
 ------------
 
-I have been a professional Software Developer and Architect for over 35 years, primarily working on large scale global web sites with millions of users and billions of transactions per day.  As a developer skilled in both frontend and backend technologies, I am up-to-date in many modern technologies such as React, HTML 5, and CSS3 (frontend) and Node.js, Python, REST APIs, Docker, and Kubernetes (backend). I love designing and building complex software as well as helping my colleagues learn new technologies and processes.
+I have been a professional Software Developer and Architect for over 35 years, primarily working on large scale global web sites with millions of users and billions of transactions per day. My secondary focus is on IoT at both the hardware and data collection tiers.  As a developer skilled in both frontend and backend technologies, I am up-to-date in many modern technologies such as React, HTML 5, and CSS3 (frontend) and Node.js, Python, REST APIs, Docker, and Kubernetes (backend). I love designing and building complex software as well as helping my colleagues learn new technologies and processes.
 
 I have worked for a wide range of companies from small mom-and-pops to large multinationals (Microsoft, Starbucks, T-Mobile, GoDaddy). I specialize in web technology, global geo-distribution, and IoT.
 
@@ -32,13 +32,13 @@ Technology Summary
 
 **Infrastructure**: Docker, Kubernetes, AWS (EC2, ECS, RDS, CloudWatch, IAM, Batch), Azure, Ansible, CI Build, GitHub, GitLab
 
-**Hardware**: ESP32, nRF52840, Raspberry Pi Pico, Raspberry Pi, ARM, x86, RISC-V, RS-232, RS-485, Modbus, PLC, smart card
+**Hardware**: ESP32, nRF52840, Raspberry Pi Pico, Raspberry Pi, ARM, x86, RISC-V, RS-232, RS-485, Modbus, PLC, PCB Design
 
 **Operating Systems**: Ubuntu/Debian, Centos/RedHat, FreeRTOS, MacOS, Windows
 
 **IoT**: LoRa, LoraWAN, MachineQ
 
-**Other**: SSH, FFmpeg, Agile, Kanban
+**Other**: SSH, Arduino IDE, FFmpeg, Agile, Kanban
 
 Patent Awards
 -------------
@@ -55,21 +55,12 @@ I have co-authored and been awarded six patents by the US Patent and Trade Offic
 Work Experience
 ---------------
 
-**Software Engineer:** [Apkudo, Inc](https://apkudo.com/) (August 2019 - December 2022)  
-**_Technology_**: Node.js, Python, Java, Docker, ECS, Postgres, JSON, SAML, JWT, FFmpeg/H.264, AWS, Robotics
-
-Whenever you break your cell phone and bring it back to the store to get a new one, your old phone is sent to a facility that checks its condition and decides if it should be repaired, sold off to a third party, or recycled. As part of the evaluation process, the cell phone is sent through a line of robots that checks it for scratches and dents, after which all of the functions of the device are tested (touch display, cameras, speakers and microphone, etc). Building upon an existing R&D prototype, my team operationalized this equipment, enhanced it to add new testing capabilities, and significantly improved the throughput of the system. In addition to being the lead designer and developer, I led a small team that converted a barely functional collection of robotic "cells" and made them work reliably and efficiently. My personal areas of focus are customer integration and configuration. This is key to our company's success as we move from having just one installation to several. Without a unified system to work across all sites, ongoing integration and maintenance costs make the system unprofitable.
-
-Another area of focus of mine outside of robotics was to receive inbound devices for processing. Even a broken cell phone is often worth hundreds of dollars, so theft of devices is rampant in the industry. To help mitigate this problem, I designed and built two independent systems for device tracking. The first uses overhead video cameras to watch the human operators who open packages of incoming devices with 15-20 devices to a box. From the time that the seal on the box is cut open until the last device is removed for processing, the camera records every activity. The recordings are then uploaded to the cloud for post-processing using FFmpeg and made available for review by management.
-
-The second way that I participated in reducing theft was to design and build a system that uses the weight of the incoming packages to determine if devices have been removed in-transit by the shipper. By using the weight of the package when it left the cell phone store and comparing that with the weight of the package when received at the robotic processing facility, we can easily determine if someone affiliated with the shipper has removed one or more devices from the package and then resealed it. This project required that I obtain the package weight from a high-speed "tunnel" scanner owned by our customer and upload it to AWS for comparison.
-
------ ----- -----
-      * * *
------ ----- -----
-
 **Principal Software Development Engineer / Architect (Consulting):** Six Dutchmen Corporation (March 2014 - Present)  
-**_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, React Hooks, Redux, Material UI, HTML5/CSS3, Javascript/AJAX, JSON, SAML, JWT, C#, .Net Core, Akamai CDN/DSA/GTM, MySQL, Postgres, Citus, TimescaleDB, Logstash, IoT, Jenkins, SharePoint
+**_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, React Hooks, Redux, Material UI, HTML5/CSS3, Javascript/AJAX, JSON, SAML, JWT, C#, .Net Core, Akamai CDN/DSA/GTM, MySQL, Postgres, TimescaleDB, Logstash, IoT, LoRa, LoRaWAN, MachineQ, ESP32, nRF52840, Raspbeery Pi Pico, Raspberry Pi, PCB Design, Arduino IDE, Jenkins, SharePoint
+
+For [Starbucks](https://starbucks.com), I designed and implemented a custom IoT module in conjunction with [Follett Ice](https://www.follettice.com/) and [MachineQ](https://www.machineq.com/) to monitor the operation of the nugget ice machines in their retail stores nationwide. Continuous operation of these ice machines is critical to customer satisfaction and revenue. By combining off-the-shelf LoRaWAN hardware with custom firmware, I was able to build a low-cost, reliable solution with code written in C++. The resulting device is capable of uplinking both event and status information to the MachineQ LoRaWAN network as well as performing edge computing functions.
+
+I also built an integration test frame to help ensure that reliability of any device deployed in-store. To accomplish this, I used sophisticated state machine techniques to monitor log file output to confirm that each operation that was expected did in fact occur and without error.
 
 For [Lithia](https://www.lithia.com/), I designed and built both React frontend components and C# backend APIs to replace an existing, inefficient internal backoffice workflow. We replaced a series of Excel spreadsheets and macros to manage customer vehicle trade-ins with a custom-built user interface designed to improve the speed and accuracy of processing a large volume of such trade-ins. By integrating SharePoint directly into our application (secured by Azure Active Directory), we completely eliminated a cumbersome and error-prone process.
 
@@ -80,6 +71,19 @@ For [Intelight](https://www.intelight-its.com/), I designed and implemented a pl
 For [Carnival Cruise Lines](https://www.carnivalcorp.com/), I designed and implemented portions of the "Ocean Compass Web" (OCW) website.  As part of the [Ocean Medallion](http://www.princess.com/ships-and-experience/ocean-medallion-class/) program announced by Carnival in the [keynote address at CES 2017](https://www.youtube.com/watch?v=Im7xJeHrvkM), OCW gives cruise line guests a much simpler and more enjoyable travel experience by using wireless technology to become their personal concierge.  OCW manages every aspect of a guest's experience including travel to/from the vessel, stateroom configuration, dietary and dining preferences, shore excursions, and much, much more.
 
 I spent three years modernizing the [GoDaddy.com](http://www.godaddy.com) web site.  This includes designing and building Node.js applications for various pages on the site.  These applications ran in Docker containers and were deployed across datacenters in the U.S., Europe, and Asia.  This work spawned an internal tool called "Expresso Hub" which is used by nearly 20 different internal applications.  The standardization of deployment and operations significantly reduced the time to bring new features to market.  It also improved the quality of the code by allowing new code to be tested offline using data from the production environment.  Finally, we freed up approximately five full-time engineers who would otherwise be committed to operations.  Deployments that had typically taken a full day could be done in less that five minutes.  The "Expresso Hub" application was built on top of Kubernetes and became the GoDaddy standard platform for deploying both internal and external web sites and RESTful APIs.
+
+----- ----- -----
+      * * *
+----- ----- -----
+
+**Software Engineer:** [Apkudo, Inc](https://apkudo.com/) (August 2019 - December 2022)  
+**_Technology_**: Node.js, Python, Java, Docker, ECS, Postgres, JSON, SAML, JWT, FFmpeg/H.264, AWS, Robotics
+
+Whenever you break your cell phone and bring it back to the store to get a new one, your old phone is sent to a facility that checks its condition and decides if it should be repaired, sold off to a third party, or recycled. As part of the evaluation process, the cell phone is sent through a line of robots that checks it for scratches and dents, after which all of the functions of the device are tested (touch display, cameras, speakers and microphone, etc). Building upon an existing R&D prototype, my team operationalized this equipment, enhanced it to add new testing capabilities, and significantly improved the throughput of the system. In addition to being the lead designer and developer, I led a small team that converted a barely functional collection of robotic "cells" and made them work reliably and efficiently. My personal areas of focus are customer integration and configuration. This is key to our company's success as we move from having just one installation to several. Without a unified system to work across all sites, ongoing integration and maintenance costs make the system unprofitable.
+
+Another area of focus of mine outside of robotics was to receive inbound devices for processing. Even a broken cell phone is often worth hundreds of dollars, so theft of devices is rampant in the industry. To help mitigate this problem, I designed and built two independent systems for device tracking. The first uses overhead video cameras to watch the human operators who open packages of incoming devices with 15-20 devices to a box. From the time that the seal on the box is cut open until the last device is removed for processing, the camera records every activity. The recordings are then uploaded to the cloud for post-processing using FFmpeg and made available for review by management.
+
+The second way that I participated in reducing theft was to design and build a system that uses the weight of the incoming packages to determine if devices have been removed in-transit by the shipper. By using the weight of the package when it left the cell phone store and comparing that with the weight of the package when received at the robotic processing facility, we can easily determine if someone affiliated with the shipper has removed one or more devices from the package and then resealed it. This project required that I obtain the package weight from a high-speed "tunnel" scanner owned by our customer and upload it to AWS for comparison.
 
 ----- ----- -----
       * * *
