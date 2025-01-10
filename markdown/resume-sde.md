@@ -56,7 +56,7 @@ Work Experience
 ---------------
 
 **Principal Software Development Engineer / Architect (Consulting):** Six Dutchmen Corporation (March 2014 - Present)  
-**_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, React Hooks, Redux, Material UI, HTML5/CSS3, Javascript/AJAX, JSON, SAML, JWT, C#, .Net Core, Akamai CDN/DSA/GTM, MySQL, Postgres, TimescaleDB, Logstash, IoT, LoRa, LoRaWAN, MachineQ, ESP32, nRF52840, Raspbeery Pi Pico, Raspberry Pi, PCB Design, Arduino IDE, Jenkins, SharePoint
+**_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, React Hooks, Redux, Material UI, HTML5/CSS3, Javascript/AJAX, JSON, SAML, JWT, C#, .Net Core, Akamai CDN/DSA/GTM, MySQL, Postgres, TimescaleDB, Logstash, IoT, LoRa, LoRaWAN, MachineQ, ESP32, nRF52840, Raspberry Pi Pico, Raspberry Pi, PCB Design, Arduino IDE, Jenkins, SharePoint
 
 For [Starbucks](https://starbucks.com), I designed and implemented a custom IoT module in conjunction with [Follett Ice](https://www.follettice.com/) and [MachineQ](https://www.machineq.com/) to monitor the operation of the nugget ice machines in their retail stores nationwide. Continuous operation of these ice machines is critical to customer satisfaction and revenue. By combining off-the-shelf LoRaWAN hardware with custom firmware, I was able to build a low-cost, reliable solution with code written in C++. The resulting device is capable of uplinking both event and status information to the MachineQ LoRaWAN network as well as performing edge computing functions.
 
