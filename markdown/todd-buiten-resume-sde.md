@@ -1,29 +1,30 @@
 Todd Buiten
 ===========
 
--------------------     ----------------------------  
-todd@buiten.com                     LinkedIn: [toddbu](https://www.linkedin.com/in/toddbu/)  
-206.459.6213  
--------------------     ----------------------------
+-------------------     -----------------------------------
+todd@buiten.com         https://www.linkedin.com/in/toddbu/
+206.459.6213                                       Kent, WA
+-------------------     -----------------------------------
 
 Work Summary
 ------------
 
-I have extensive skills as a Software Developer and Architect, primarily working on large scale global web sites with millions of users and billions of transactions per day. My secondary focus is on IoT at both the hardware and data collection tiers. As a developer skilled in both frontend and backend technologies, I am up-to-date in many modern technologies such as React, HTML 5, and CSS3 (frontend) and Node.js, Python, REST APIs, Docker, and Kubernetes (backend). I love designing and building complex software as well as helping my colleagues learn new technologies and processes.
+I have extensive skills as a Software Developer and Architect, primarily working on large scale global web sites with millions of users and billions of transactions per day. My secondary focus is on IoT at both the hardware and data collection tiers. As a developer skilled in both frontend and backend technologies, I am up-to-date in many modern technologies such as React, HTML5, and CSS3 (frontend) and Node.js, Python, REST APIs, Docker, and Kubernetes (backend). I love designing and building complex software as well as helping my colleagues learn new technologies and processes.
 
 I have worked for a wide range of companies from small mom-and-pops to large multinationals (Microsoft, Starbucks, T-Mobile, GoDaddy). I specialize in web technology, global geo-distribution, and IoT.
 
 Technology Summary
 ------------------
 
-* **Programming Languages**: Node.js/Javascript/JSON, Python, C, C++, C#/.Net Core, Java, VB, Bash, PHP, Assembly**FrontEnd**: React, Redux, HTML5/CSS3, JWT, SAML, SPA
+* **Programming Languages**: Node.js/Javascript/JSON, Python, C, C++, C#/.Net Core, Java, VB, Bash, PHP, Assembly
+* **FrontEnd**: React, Redux, HTML5/CSS3, JWT, SAML, SPA
 * **BackEnd**: REST, SOAP, Web Services, Microservice Architecture, Apache, Thread synchronization
 * **Databases**: Postgres, MySQL, MSSQL, Cassandra
 * **Infrastructure**: Docker, Kubernetes, AWS (EC2, ECS, RDS, CloudWatch, IAM, Batch), Azure, Ansible, CI/CD, GitHub, GitLab
-* **Hardware**: ESP32, nRF52840, Raspberry Pi Pico, Raspberry Pi, ARM, x86, RISC-V, RS-232, RS-485, Modbus, PLC, PCB Design
-* **Operating Systems**: Ubuntu/Debian, Centos/RedHat, FreeRTOS, MacOS, Windows
-* **IoT**: LoRa, LoraWAN, MachineQ
-* **Other**: SSH, Arduino IDE, FFmpeg, Agile, Kanban
+* **Hardware**: SoC, ESP32, nRF52840, Raspberry Pi Pico, Raspberry Pi, ARM, x86, RISC-V, RS-232, RS-485, Modbus, PLC, PCB Design
+* **Operating Systems**: Linux, Ubuntu/Debian/MX, Centos/RedHat, FreeRTOS, RTOS, MacOS, Windows
+* **IoT**: LoRa, LoraWAN, MachineQ, Embedded software, Embedded systems
+* **Other**: SSH, Arduino IDE, FFmpeg, Agile, Kanban, Excellent verbal and written skills
 
 Patent Awards
 -------------
@@ -41,19 +42,20 @@ Work Experience
 ---------------
 
 **Principal Software Development Engineer / Architect:** Six Dutchmen Corporation (Consulting) (March 2014 - Present)  
-**_Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, React Hooks, Redux, Material UI, HTML5/CSS3, Javascript/AJAX, JSON, SAML, JWT, C#, .Net Core, AWS, Akamai CDN/DSA/GTM, MySQL, Postgres, TimescaleDB, Logstash, IoT, LoRa, LoRaWAN, MachineQ, ESP32, nRF52840, Raspberry Pi Pico, Raspberry Pi, PCB Design, Arduino IDE, Jenkins, SharePoint
+**_Web Technology_**: Node.js, Docker, Kubernetes, Cassandra, React, React Hooks, Redux, Material UI, HTML5/CSS3, Javascript/AJAX, JSON, SAML, JWT, AWS, Akamai CDN/DSA/GTM, MySQL, Postgres, Logstash  
+**_Other Technology_**: IoT, LoRa, LoRaWAN, MachineQ, ESP32, nRF52840, Raspberry Pi Pico, Raspberry Pi, PCB Design, Arduino IDE, Jenkins
 
 * [Starbucks](https://starbucks.com):
   * Designed and implemented custom IoT firmware for monitoring ice machines in C++
   * Designed and implemented a test framework in Node for this device for reliability
 * [Lithia](https://www.lithia.com/):
-  * Designed and built both React frontend components and C# backend APIs to manage vehicle trade-in date
+  * Designed and built both React frontend components and C# backend APIs to manage vehicle trade-in data
 * [Xandr](https://en.wikipedia.org/wiki/Xandr):
   * Designed and implemented both React frontend components (with Material UI) and Node backend APIs for tracking advertising inventory and performance
 * [Intelight](https://www.intelight-its.com/):
   * Designed and implemented a pluggable, scalable event ingestion pipeline capable of analyzing billions of traffic light events in Node
 * [Carnival Cruise Lines](https://www.carnivalcorp.com/):
-  * Designed and implemented portions of the "Ocean Compass Web" (OCW) website to manage csutomer ocean cruise registrations in HTML5 and Javascript
+  * Designed and implemented portions of the "Ocean Compass Web" (OCW) website to manage customer ocean cruise registrations in HTML5 and Javascript
 * [GoDaddy.com](http://www.godaddy.com):
   *  Designed and implemented various web site applications in Node.js including portions of the main web site and the community-based help system
 
@@ -79,3 +81,31 @@ Education
 
 Bachelor of Science degree with a major in Computer Science.  
 **Calvin College**, Grand Rapids, MI. May 1987.
+
+ATS
+-------------
+
+---------------------------------------- ----------------------------------------
+accuracy                                 work autonomously
+technical writing skills                 bachelor's degree
+embedded                                 firmware
+performance analysis                     file systems
+research                                 c/c++
+usb                                      software engineer
+computer science                         SoCs
+architect                                architecture
+software developer                       lead
+manager                                  software development
+unit testing                             fullstack
+full stack                               node.js
+public cloud                             nosql
+qa                                       db
+project scope                            frontend
+backend                                  ethernet
+tcp                                      802.11
+communication                            microcontroller
+motivated                                systems engineering
+version control                          system architecture
+firmware development                     computer engineering
+user interface
+---------------------------------------- ----------------------------------------
